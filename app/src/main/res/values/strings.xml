@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="type_number_here">Type number here</string>
+    <string name="to_kg">To kg</string>
+    <string name="to_lb">To lb</string>
+    <string name="to_celcius">To Celcius</string>
+    <string name="to_fahrenheit">To Fahrenheit</string>
+    <string name="result_will_be_shown_here">Result will be shown here</string>
+</resources>
